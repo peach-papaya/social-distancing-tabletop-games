@@ -2,7 +2,7 @@
 
 Приблизительный список действий необходимый для осуществления плана
 
-![image](https://imgflip.com/i/3v86ow)
+![image](https://i.imgflip.com/3v86ow.jpg)
 
 1. [Установить Steam](https://github.com/peach-papaya/social-distancing-tabletop-games/edit/master/steam.md)
 2. [Установить Tabletop Simulator](https://github.com/peach-papaya/social-distancing-tabletop-games/edit/master/tts.md)
