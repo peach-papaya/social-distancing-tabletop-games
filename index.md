@@ -6,5 +6,5 @@
 
 1. [Установить Steam](https://peach-papaya.github.io/social-distancing-tabletop-games/steam)
 2. [Установить Tabletop Simulator](https://peach-papaya.github.io/social-distancing-tabletop-games/tts)
-3. [Выбрать необходимые настолки в мастерской](https://peach-papaya.github.io/social-distancing-tabletop-games/tts-workshop)
+3. [Выбрать необходимые настолки в мастерской](https://peach-papaya.github.io/social-distancing-tabletop-games/workshop)
 4. [Установить discord](https://peach-papaya.github.io/social-distancing-tabletop-games/discord)
