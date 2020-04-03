@@ -6,4 +6,6 @@
 В принципе, все интуитивно понятно, если хочется хранить список друзей, комнат общения и т.д. то нужно зарегистрироваться,
 иначе можно просто каждый раз придумывать ник и добавлять кого-нибудь в друзья, чтобы он вас добавил в общую комнату.
 
-Тем временем, установка Tabletop simulator закончилась и нужно [установить необходимые настолки](https://peach-papaya.github.io/social-distancing-tabletop-games/tts-workshop)
+Тем временем, установка Tabletop simulator закончилась и нужно [установить необходимые настолки](https://peach-papaya.github.io/social-distancing-tabletop-games/workshop)
+
+[На главную](https://peach-papaya.github.io/social-distancing-tabletop-games/index)
